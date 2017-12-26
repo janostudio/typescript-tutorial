@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    // instruct TypeScript to use the CommonJS module format.
+    "module": "commonjs",
+    "target": "es2015",
+    "removeComments": true,
+    "outDir": "./bin"
+    // "sourceMap": true
+  },
+  "include": ["src/**/*"]
+}
